@@ -1,0 +1,6 @@
+{
+  "name": "Aviator Game",
+  "description": "Real-time multiplayer Aviator crash game with dynamic multiplier curve, dual betting panels, provably fair history, interactive leaderboards, and user authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
